@@ -1,7 +1,7 @@
 {
-    "name": "Xray heroku server ",
-    "description": "Deploy your own xray from heroku",
-    "logo":"https://te.legra.ph/file/580d01abee89029729300.jpg",
+    "name": "vhphn ",
+    "description": "Deploy your own heroku",
+    "logo":"https://jackfisherbooks.files.wordpress.com/2019/08/mia-khalifa.jpg",
     "keywords": ["xray"],
     "env": {
         "UUID": {
